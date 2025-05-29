@@ -21,8 +21,8 @@ Aplicar los conocimientos obtenidos sobre el lenguaje ensamblador en sistemas GN
 
 Este repositorio contiene la solución a tres ejercicios propuestos en la guía de la Semana 10.
 
-| Ejercicio | Descripción | Registro usado | Estado |
-|-----------|-------------|----------------|--------|
+| Ejercicio | Descripción | Registro usado | 
+|-----------|-------------|----------------|
 | 1 | Resta de tres enteros (50 - 20 - 5) | 16 bits | 
 | 2 | Multiplicación de dos enteros (6 * 7) | 8 bits| 
 | 3 | División de dos enteros (100 / 4) | 32 bits   | 
